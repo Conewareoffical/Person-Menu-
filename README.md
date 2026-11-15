@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="620" alt="Person Menu"><br>
-  <a href="https://github.com/Conewareoffical/Person-Menu-/releases"><img src="rel.png" width="100" alt="Releases"></a>
+  <img src="logo.png" width="620" alt="Person Menu">
 </p>
 
 ## Person Menu for Gorilla Tag. 
