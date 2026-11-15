@@ -4,6 +4,6 @@
 
 
 
-Person Menu for Gorilla Tag. 
+## Person Menu for Gorilla Tag. 
 I am NOT responsible for ANY Bans. Use this Software at your own risk.
--# (you wont get banned unless your dumb)
+This is ONLY the Releases. NOT SOURCE CODE !
